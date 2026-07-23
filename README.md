@@ -13,6 +13,7 @@ Every problem solution is structured into standalone files named after the respe
 | :--- | :--- | :--- | :--- |
 | 1 | [Two Sum](./two_sum.py) | Python | Easy |
 | 2 | [Contains Duplicate](./conatains_duplicate.py) | Python | Easy |
+| 3 | [valid palindrome](./valid palindrome #125.py) | Python | Easy |
 
 ## 📈 Goals
 * Maintain a consistent daily commit streak to build active programming habits.
