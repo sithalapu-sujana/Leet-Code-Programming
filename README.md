@@ -11,9 +11,10 @@ Every problem solution is structured into standalone files named after the respe
 
 | Problem ID | Problem Title | Language | Difficulty |
 | :--- | :--- | :--- | :--- |
-| 1 | [Two Sum](./two_sum.py) | Python | Easy |
+| 2 | [Two Sum](./two_sum.py) | Python | Easy |
 | 2 | [Contains Duplicate](./conatains_duplicate.py) | Python | Easy |
 | 3 | [valid palindrome](./valid_palindrome.py) | Python | Easy |
+| 2 | [Valid Anagram](./valid_anagram.py) | Python | Easy |
 
 ## 📈 Goals
 * Maintain a consistent daily commit streak to build active programming habits.
